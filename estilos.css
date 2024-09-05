@@ -1,0 +1,24 @@
+body{
+    border: 1px solid rgb(113, 200, 247);
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+    
+}
+header nav ul {
+    text-align: center;
+    
+ }
+header nav ul li{
+    background: rgba(245, 167, 89, 0.789);
+    color: rgb(7, 7, 7);
+    border: 1px solid rgba(223, 166, 110, 0.823) ;
+    display: inline-block;
+    margin-right: 20px;
+    padding-top: 25x 37px;
+}
+
+header nav ul li:hover{
+    background: rgba(123, 237, 235, 0.789);
+    color: rgba(245, 167, 89, 0.789);
+}
